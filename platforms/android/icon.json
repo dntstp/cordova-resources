@@ -3,5 +3,14 @@
   {"dest": "res/drawable-ldpi/icon.png",      "width": 36, "height": 36}, 
   {"dest": "res/drawable-mdpi/icon.png",      "width": 48, "height": 48},
   {"dest": "res/drawable-hdpi/icon.png",      "width": 72, "height": 72}, 
-  {"dest": "res/drawable-xhdpi/icon.png",     "width": 96, "height": 96}
+  {"dest": "res/drawable-xhdpi/icon.png",     "width": 96, "height": 96},
+  {"dest": "res/drawable-xxhdpi/icon.png",     "width": 144, "height": 144},
+  {"dest": "res/drawable-xxxhdpi/icon.png",     "width": 192, "height": 192},
+
+  {"dest": "res/minimap-ldpi/icon.png",      "width": 36, "height": 36},
+  {"dest": "res/minimap-mdpi/icon.png",      "width": 48, "height": 48},
+  {"dest": "res/minimap-hdpi/icon.png",      "width": 72, "height": 72},
+  {"dest": "res/minimap-xhdpi/icon.png",     "width": 96, "height": 96},
+  {"dest": "res/minimap-xxhdpi/icon.png",     "width": 144, "height": 144},
+  {"dest": "res/minimap-xxxhdpi/icon.png",     "width": 192, "height": 192}
 ]
