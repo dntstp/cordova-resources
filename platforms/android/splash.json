@@ -10,5 +10,5 @@
   { "dest" : "res/drawable-port-hdpi/screen.png",  "width" : 480, "height": 800 },
   { "dest" : "res/drawable-port-xhdpi/screen.png", "width" : 720, "height": 1280 },
   { "dest" : "res/drawable-port-xxhdpi/screen.png", "width" : 960, "height": 1600 },
-  { "dest" : "res/drawable-port-xxhdpi/screen.png", "width" : 1280, "height": 1920 }
+  { "dest" : "res/drawable-port-xxxhdpi/screen.png", "width" : 1280, "height": 1920 }
 ]
