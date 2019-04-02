@@ -141,11 +141,12 @@ function generate (pwd, platform) {
 						fs.accessSync(imagePath, fs.R_OK);
 						fs.accessSync(path.dirname(item.dest), fs.W_OK);
 						console.log('-----------------------'.green());
-						console.log("Generate your resources...".green() + imagePath .green() );
-
-						deferred.resolve(convert.resize(imagePath, item.dest, item));
-						console.log();
-						console.log("DONE! :)".green());
+						console.log("Generate resources...".green() + imagePath .green() );
+						if(resource === 'icon'){
+                            deferred.resolve(convert.resize(imagePath, item.dest, item));
+						}else{
+                            deferred.resolve(convert.crop(imagePath, item.dest, item));
+						}
 
 					});
 				})
