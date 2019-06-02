@@ -8,7 +8,7 @@
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-72.png",       "width": 72,  "height": 72},
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-76.png",       "width": 76,  "height": 76},
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-small.png",    "width": 29,  "height": 29},
-  {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/iTunesArtwork.png", "width": 512, "height": 512},
+  {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-1024.png",       "width": 1024,  "height": 1024},
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon@2x.png",       "width": 114, "height": 114},
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-20@2x.png",       "width": 40,  "height": 40},
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-40@2x.png",    "width": 80,  "height": 80},
@@ -22,5 +22,4 @@
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-20@3x.png",       "width": 60,  "height": 60},
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-small@3x.png", "width": 87,  "height": 87},
   {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-60@3x.png",    "width": 180, "height": 180},
-  {"dest": "{projectName}/Images.xcassets/AppIcon.appiconset/iTunesArtwork@2x.png","width": 1024, "height": 1024}
 ]
