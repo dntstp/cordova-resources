@@ -31,12 +31,12 @@ var hasImages = function (platform) {
 		fs.access(image, fs.R_OK, function(err){
 			if(err){
 				console.log('------------------------------------------'.red());
-				console.log("Your hasn't files images icons and splash".red());
+				console.log("You hasn't files images icons and splash".red());
 				console.log('------------------------------------------'.red());
 				return deferred.reject(err);
 			} else {
 				console.log('------------------------------------------'.green());
-				console.log("Your have images :)".green());
+				console.log("You have images :)".green());
 				console.log('------------------------------------------'.green());
 				return deferred.resolve();
 			}
@@ -141,7 +141,7 @@ function generate (pwd, platform) {
 						fs.accessSync(imagePath, fs.R_OK);
 						fs.accessSync(path.dirname(item.dest), fs.W_OK);
 						console.log('-----------------------'.green());
-						console.log("Generate resources...".green() + imagePath .green() );
+						console.log("Generate resources...".green() + item.dest.green() );
 						if(resource === 'icon'){
                             deferred.resolve(convert.resize(imagePath, item.dest, item));
 						}else{
