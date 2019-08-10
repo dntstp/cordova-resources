@@ -1,24 +1,24 @@
 [  
-  {"dest": "res/drawable/icon.png",           "width": 96, "height": 96},
+  {"dest": "app/res/drawable/icon.png",           "width": 96, "height": 96},
 
-  {"dest": "res/drawable-land-ldpi/icon.png",      "width": 36, "height": 36},
-  {"dest": "res/drawable-land-mdpi/icon.png",      "width": 48, "height": 48},
-  {"dest": "res/drawable-land-hdpi/icon.png",      "width": 72, "height": 72},
-  {"dest": "res/drawable-land-xhdpi/icon.png",     "width": 96, "height": 96},
-  {"dest": "res/drawable-land-xxhdpi/icon.png",     "width": 144, "height": 144},
-  {"dest": "res/drawable-land-xxxhdpi/icon.png",     "width": 192, "height": 192},
+  {"dest": "app/res/drawable-land-ldpi/icon.png",      "width": 36, "height": 36},
+  {"dest": "app/res/drawable-land-mdpi/icon.png",      "width": 48, "height": 48},
+  {"dest": "app/res/drawable-land-hdpi/icon.png",      "width": 72, "height": 72},
+  {"dest": "app/res/drawable-land-xhdpi/icon.png",     "width": 96, "height": 96},
+  {"dest": "app/res/drawable-land-xxhdpi/icon.png",     "width": 144, "height": 144},
+  {"dest": "app/res/drawable-land-xxxhdpi/icon.png",     "width": 192, "height": 192},
 
-  {"dest": "res/drawable-port-ldpi/icon.png",      "width": 36, "height": 36},
-  {"dest": "res/drawable-port-mdpi/icon.png",      "width": 48, "height": 48},
-  {"dest": "res/drawable-port-hdpi/icon.png",      "width": 72, "height": 72},
-  {"dest": "res/drawable-port-xhdpi/icon.png",     "width": 96, "height": 96},
-  {"dest": "res/drawable-port-xxhdpi/icon.png",     "width": 144, "height": 144},
-  {"dest": "res/drawable-port-xxxhdpi/icon.png",     "width": 192, "height": 192},
+  {"dest": "app/res/drawable-port-ldpi/icon.png",      "width": 36, "height": 36},
+  {"dest": "app/res/drawable-port-mdpi/icon.png",      "width": 48, "height": 48},
+  {"dest": "app/res/drawable-port-hdpi/icon.png",      "width": 72, "height": 72},
+  {"dest": "app/res/drawable-port-xhdpi/icon.png",     "width": 96, "height": 96},
+  {"dest": "app/res/drawable-port-xxhdpi/icon.png",     "width": 144, "height": 144},
+  {"dest": "app/res/drawable-port-xxxhdpi/icon.png",     "width": 192, "height": 192},
 
-  {"dest": "res/mipmap-ldpi/icon.png",      "width": 36, "height": 36},
-  {"dest": "res/mipmap-mdpi/icon.png",      "width": 48, "height": 48},
-  {"dest": "res/mipmap-hdpi/icon.png",      "width": 72, "height": 72},
-  {"dest": "res/mipmap-xhdpi/icon.png",     "width": 96, "height": 96},
-  {"dest": "res/mipmap-xxhdpi/icon.png",     "width": 144, "height": 144},
-  {"dest": "res/mipmap-xxxhdpi/icon.png",     "width": 192, "height": 192}
+  {"dest": "app/res/mipmap-ldpi/icon.png",      "width": 36, "height": 36},
+  {"dest": "app/res/mipmap-mdpi/icon.png",      "width": 48, "height": 48},
+  {"dest": "app/res/mipmap-hdpi/icon.png",      "width": 72, "height": 72},
+  {"dest": "app/res/mipmap-xhdpi/icon.png",     "width": 96, "height": 96},
+  {"dest": "app/res/mipmap-xxhdpi/icon.png",     "width": 144, "height": 144},
+  {"dest": "app/res/mipmap-xxxhdpi/icon.png",     "width": 192, "height": 192}
 ]
