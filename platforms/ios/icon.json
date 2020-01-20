@@ -131,8 +131,8 @@
   },
   {
     "dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-27.5@2x.png",
-    "width": 54,
-    "height": 54
+    "width": 55,
+    "height": 55
   },
   {
     "dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-29@2x.png",
