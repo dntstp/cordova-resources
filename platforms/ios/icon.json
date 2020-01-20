@@ -120,11 +120,6 @@
     "height": 167
   },
   {
-    "dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-1024.png",
-    "width": 1024,
-    "height": 1024
-  },
-  {
     "dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-24@2x.png",
     "width": 48,
     "height": 48
@@ -168,10 +163,5 @@
     "dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-98@2x.png",
     "width": 196,
     "height": 196
-  },
-  {
-    "dest": "{projectName}/Images.xcassets/AppIcon.appiconset/icon-1024.png",
-    "width": 1024,
-    "height": 1024
   }
 ]
