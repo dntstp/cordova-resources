@@ -1,8 +1,8 @@
 [
-	{ "dest": "../../resources/Default@2x~universal~anyany.png", "width": 2732, "height": 2732 },
-	{ "dest": "../../resources/Default@2x~universal~comany.png", "width": 1278, "height": 2732 },
-	{ "dest": "../../resources/Default@2x~universal~comcom.png", "width": 1334, "height": 750 },
-	{ "dest": "../../resources/Default@3x~universal~anyany.png", "width": 2208, "height": 2208 },
-	{ "dest": "../../resources/Default@3x~universal~anycom.png", "width": 2208, "height": 1242 },
-	{ "dest": "../../resources/Default@3x~universal~comany.png",  "width": 1242, "height": 2208 }
+	{ "dest": "resources/Default@2x~universal~anyany.png", "width": 2732, "height": 2732 },
+	{ "dest": "resources/Default@2x~universal~comany.png", "width": 1278, "height": 2732 },
+	{ "dest": "resources/Default@2x~universal~comcom.png", "width": 1334, "height": 750 },
+	{ "dest": "resources/Default@3x~universal~anyany.png", "width": 2208, "height": 2208 },
+	{ "dest": "resources/Default@3x~universal~anycom.png", "width": 2208, "height": 1242 },
+	{ "dest": "resources/Default@3x~universal~comany.png",  "width": 1242, "height": 2208 }
 ]
